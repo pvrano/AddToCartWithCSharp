@@ -1,0 +1,15 @@
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\bin\Debug\net8.0\ShoppingCart.exe
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\bin\Debug\net8.0\ShoppingCart.deps.json
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\bin\Debug\net8.0\ShoppingCart.runtimeconfig.json
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\bin\Debug\net8.0\ShoppingCart.dll
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\bin\Debug\net8.0\ShoppingCart.pdb
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ShoppingCart.sourcelink.json
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ShoppingCart.dll
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\refint\ShoppingCart.dll
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ShoppingCart.pdb
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\pvran\source\repos\PracticeOops\Collections\ShoppingCart\obj\Debug\net8.0\ref\ShoppingCart.dll
