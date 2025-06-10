@@ -1,0 +1,24 @@
+
+[
+    {"id": 1, "name": "Wireless Mouse", "price": 24.99, "quantity": 120},
+    {"id": 2, "name": "Bluetooth Speaker", "price": 45.50, "quantity": 75},
+    {"id": 3, "name": "USB-C Charger", "price": 19.95, "quantity": 200},
+    {"id": 4, "name": "Laptop Stand", "price": 32.10, "quantity": 60},
+    {"id": 5, "name": "Noise Cancelling Headphones", "price": 89.99, "quantity": 40},
+    {"id": 6, "name": "Fitness Tracker", "price": 55.00, "quantity": 85},
+    {"id": 7, "name": "Smart LED Bulb", "price": 14.75, "quantity": 150},
+    {"id": 8, "name": "Portable SSD 1TB", "price": 109.49, "quantity": 33},
+    {"id": 9, "name": "Ergonomic Keyboard", "price": 41.00, "quantity": 70},
+    {"id": 10, "name": "Gaming Mousepad", "price": 12.99, "quantity": 180},
+    {"id": 11, "name": "Smartwatch", "price": 130.89, "quantity": 28},
+    {"id": 12, "name": "HDMI Cable", "price": 7.59, "quantity": 300},
+    {"id": 13, "name": "External DVD Drive", "price": 36.25, "quantity": 48},
+    {"id": 14, "name": "Mechanical Pencil Set", "price": 8.49, "quantity": 210},
+    {"id": 15, "name": "Wireless Earbuds", "price": 59.95, "quantity": 95},
+    {"id": 16, "name": "Smart Plug", "price": 16.30, "quantity": 130},
+    {"id": 17, "name": "Waterproof Action Camera", "price": 72.80, "quantity": 22},
+    {"id": 18, "name": "Adjustable Desk Lamp", "price": 27.60, "quantity": 53},
+    {"id": 19, "name": "USB Hub 4-Port", "price": 13.20, "quantity": 120},
+    {"id": 20, "name": "Screen Cleaning Kit", "price": 6.99, "quantity": 250}
+]
+

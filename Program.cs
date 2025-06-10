@@ -6,6 +6,8 @@ Cart cart = new Cart();
 
 
 
+
+
 // ask user for the product
 // take the selected product from the store by id 
 // add the product to cart

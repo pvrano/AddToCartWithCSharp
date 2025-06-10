@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
+using System.Text.Json.Nodes;
 using System.Threading.Tasks;
 
 namespace ShoppingCart
@@ -11,13 +13,18 @@ namespace ShoppingCart
         List<Product> store = new List<Product>();
 
 
+        string filePath = "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\ShoppingCart\\Data\\StoreItems.json";
+
+        string jsonString;
+
+        
+
+
+
         public Store() {
-            store.Add(new Product(1, "Bread", 2.5, 10));
-            store.Add(new Product(2, "Butter", 3, 10));
-            store.Add(new Product(3, "Eggs", 5, 10));
-            store.Add(new Product(4, "Cereal", 12, 10));
-            store.Add(new Product(5, "Rice Bag", 9, 10));
-            store.Add(new Product(6, "Milk", 1.5, 10));
+            jsonString = File.ReadAllText(filePath);
+            store = JsonSerializer.Deserialize<List<Product>>(jsonString);
+            
         }
 
         public void showStoreList()
