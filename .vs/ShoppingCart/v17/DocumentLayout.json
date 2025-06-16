@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\ShoppingCart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\shoppingcart\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|solutionrelative:cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\shoppingcart\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|solutionrelative:store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\shoppingcart\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|c:\\users\\pvran\\source\\repos\\practiceoops\\collections\\shoppingcart\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062E0DE-1995-498D-9F9F-2100369E67FB}|ShoppingCart.csproj|solutionrelative:cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Store.cs",
               "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\ShoppingCart\\Store.cs",
               "RelativeDocumentMoniker": "Store.cs",
               "ToolTip": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\ShoppingCart\\Store.cs",
               "RelativeToolTip": "Store.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T19:34:55.998Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\ShoppingCart\\Cart.cs",
               "RelativeDocumentMoniker": "Cart.cs",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pvran\\source\\repos\\PracticeOops\\Collections\\ShoppingCart\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
